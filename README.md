@@ -1,6 +1,6 @@
 # Chatbot UG - Admisión y Nivelación
 
-Proyecto de PLN clásico que recupera respuestas sobre oferta académica, admisión y nivelación de la Universidad de Guayaquil.
+Proyecto de Universidad de Guayaquil de la carrera de Ciencias De Datos E Inteligencia Artificial para la materia de Procesamiento de Lenguaje Natural
 
 ## Técnicas
 - Normalización de texto (minúsculas, sin tildes, sin puntuación)
