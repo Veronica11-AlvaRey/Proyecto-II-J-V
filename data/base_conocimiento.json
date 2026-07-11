@@ -1,0 +1,670 @@
+[
+  {
+    "id": "CAR-001",
+    "tipo": "carrera",
+    "carrera": "Administración De Empresas",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Administración De Empresas forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-002",
+    "tipo": "carrera",
+    "carrera": "Agronomía",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Agronomía forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-003",
+    "tipo": "carrera",
+    "carrera": "Agropecuaria",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Agropecuaria forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-004",
+    "tipo": "carrera",
+    "carrera": "Alimentos",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Alimentos forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-005",
+    "tipo": "carrera",
+    "carrera": "Arquitectura",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Arquitectura forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-006",
+    "tipo": "carrera",
+    "carrera": "Biología",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Biología forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-007",
+    "tipo": "carrera",
+    "carrera": "Bioquímica Y Farmacia",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Bioquímica Y Farmacia forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-008",
+    "tipo": "carrera",
+    "carrera": "Ciencia De Datos E Inteligencia Artificial",
+    "modalidad": "En línea",
+    "descripcion": "La carrera de Ciencia De Datos E Inteligencia Artificial forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-009",
+    "tipo": "carrera",
+    "carrera": "Ciencias Políticas",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Ciencias Políticas forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-010",
+    "tipo": "carrera",
+    "carrera": "Comercio Exterior",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Comercio Exterior forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-011",
+    "tipo": "carrera",
+    "carrera": "Comunicación",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Comunicación forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-012",
+    "tipo": "carrera",
+    "carrera": "Contabilidad Y Auditoría",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Contabilidad Y Auditoría forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-013",
+    "tipo": "carrera",
+    "carrera": "Derecho",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Derecho forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-014",
+    "tipo": "carrera",
+    "carrera": "Diseño De Interiores",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Diseño De Interiores forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-015",
+    "tipo": "carrera",
+    "carrera": "Diseño Gráfico",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Diseño Gráfico forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-016",
+    "tipo": "carrera",
+    "carrera": "Economía",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Economía forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-017",
+    "tipo": "carrera",
+    "carrera": "Economía Internacional",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Economía Internacional forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-018",
+    "tipo": "carrera",
+    "carrera": "Educación Básica",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Educación Básica forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-019",
+    "tipo": "carrera",
+    "carrera": "Educación Inicial",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Educación Inicial forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-020",
+    "tipo": "carrera",
+    "carrera": "Enfermería",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Enfermería forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-021",
+    "tipo": "carrera",
+    "carrera": "Entrenamiento Deportivo",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Entrenamiento Deportivo forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-022",
+    "tipo": "carrera",
+    "carrera": "Finanzas",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Finanzas forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-023",
+    "tipo": "carrera",
+    "carrera": "Fonoaudiología",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Fonoaudiología forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-024",
+    "tipo": "carrera",
+    "carrera": "Gastronomía",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Gastronomía forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-025",
+    "tipo": "carrera",
+    "carrera": "Geología",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Geología forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-026",
+    "tipo": "carrera",
+    "carrera": "Gestión De La Información Gerencial",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Gestión De La Información Gerencial forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-027",
+    "tipo": "carrera",
+    "carrera": "Ingeniería Ambiental",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Ingeniería Ambiental forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-028",
+    "tipo": "carrera",
+    "carrera": "Ingeniería Civil",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Ingeniería Civil forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-029",
+    "tipo": "carrera",
+    "carrera": "Ingeniería De La Producción",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Ingeniería De La Producción forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-030",
+    "tipo": "carrera",
+    "carrera": "Ingeniería Industrial",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Ingeniería Industrial forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-031",
+    "tipo": "carrera",
+    "carrera": "Ingeniería Química",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Ingeniería Química forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-032",
+    "tipo": "carrera",
+    "carrera": "Mecatrónica",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Mecatrónica forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-033",
+    "tipo": "carrera",
+    "carrera": "Medicina",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Medicina forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-034",
+    "tipo": "carrera",
+    "carrera": "Medicina Veterinaria",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Medicina Veterinaria forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-035",
+    "tipo": "carrera",
+    "carrera": "Mercadotecnia",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Mercadotecnia forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-036",
+    "tipo": "carrera",
+    "carrera": "Negocios Internacionales",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Negocios Internacionales forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-037",
+    "tipo": "carrera",
+    "carrera": "Nutrición Y Dietética",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Nutrición Y Dietética forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-038",
+    "tipo": "carrera",
+    "carrera": "Obstetricia",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Obstetricia forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-039",
+    "tipo": "carrera",
+    "carrera": "Odontología",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Odontología forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-040",
+    "tipo": "carrera",
+    "carrera": "Pedagogía De La Actividad Física Y Deporte",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Pedagogía De La Actividad Física Y Deporte forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-041",
+    "tipo": "carrera",
+    "carrera": "Pedagogía De La Filosofía",
+    "modalidad": "En línea",
+    "descripcion": "La carrera de Pedagogía De La Filosofía forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-042",
+    "tipo": "carrera",
+    "carrera": "Pedagogía De La Historia Y Ciencias Sociales",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Pedagogía De La Historia Y Ciencias Sociales forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-043",
+    "tipo": "carrera",
+    "carrera": "Pedagogía De La Informática",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Pedagogía De La Informática forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-044",
+    "tipo": "carrera",
+    "carrera": "Pedagogía De La Lengua Y Literatura",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Pedagogía De La Lengua Y Literatura forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-045",
+    "tipo": "carrera",
+    "carrera": "Pedagogía De La Matemáticas Y La Física",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Pedagogía De La Matemáticas Y La Física forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-046",
+    "tipo": "carrera",
+    "carrera": "Pedagogía De Las Artes Y Las Humanidades",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Pedagogía De Las Artes Y Las Humanidades forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-047",
+    "tipo": "carrera",
+    "carrera": "Pedagogía De Los Idiomas Nacionales Y Extranjeros",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Pedagogía De Los Idiomas Nacionales Y Extranjeros forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-048",
+    "tipo": "carrera",
+    "carrera": "Pedagogía Química Y Biología",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Pedagogía Química Y Biología forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-049",
+    "tipo": "carrera",
+    "carrera": "Psicología",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Psicología forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-050",
+    "tipo": "carrera",
+    "carrera": "Psicología Educativa",
+    "modalidad": "En línea",
+    "descripcion": "La carrera de Psicología Educativa forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-051",
+    "tipo": "carrera",
+    "carrera": "Publicidad",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Publicidad forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-052",
+    "tipo": "carrera",
+    "carrera": "Sistemas De Información",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Sistemas De Información forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-053",
+    "tipo": "carrera",
+    "carrera": "Sociología",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Sociología forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-054",
+    "tipo": "carrera",
+    "carrera": "Software",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Software forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-055",
+    "tipo": "carrera",
+    "carrera": "Tecnologías De La Información",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Tecnologías De La Información forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-056",
+    "tipo": "carrera",
+    "carrera": "Telemática",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Telemática forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-057",
+    "tipo": "carrera",
+    "carrera": "Terapia Ocupacional",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Terapia Ocupacional forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-058",
+    "tipo": "carrera",
+    "carrera": "Terapia Respiratoria",
+    "modalidad": "Presencial",
+    "descripcion": "La carrera de Terapia Respiratoria forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "CAR-059",
+    "tipo": "carrera",
+    "carrera": "Turismo",
+    "modalidad": "Híbrida",
+    "descripcion": "La carrera de Turismo forma parte de la oferta académica de la Universidad de Guayaquil.",
+    "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
+  },
+  {
+    "id": "ADM-001",
+    "tipo": "admision",
+    "titulo": "Inscripción y postulación",
+    "descripcion": "La inscripción se realiza en la plataforma institucional. Se pueden elegir hasta dos carreras del mismo bloque de conocimiento.",
+    "detalle": "Es obligatorio haber realizado el Registro Nacional."
+  },
+  {
+    "id": "ADM-002",
+    "tipo": "admision",
+    "titulo": "Puntaje de postulación",
+    "descripcion": "El puntaje se compone de 50% examen de admisión y 50% antecedentes académicos, más acciones afirmativas cuando correspondan.",
+    "detalle": ""
+  },
+  {
+    "id": "ADM-003",
+    "tipo": "admision",
+    "titulo": "Aceptación de cupo",
+    "descripcion": "La aceptación es libre y voluntaria. Una vez aceptado, el cupo no puede modificarse ni anularse y debe usarse en el período correspondiente.",
+    "detalle": ""
+  },
+  {
+    "id": "NIV-001",
+    "tipo": "nivelacion",
+    "titulo": "Matrícula de nivelación",
+    "descripcion": "La matrícula se realiza en línea mediante SIUG para postulantes con cupo asignado.",
+    "detalle": "Se deben cargar documentos y completar encuestas antes de seleccionar paralelo."
+  },
+  {
+    "id": "NIV-002",
+    "tipo": "nivelacion",
+    "titulo": "Documentos de matrícula",
+    "descripcion": "Foto carné, cédula o pasaporte, certificado de votación cuando aplique, título de bachiller, certificado de registro y carné CONADIS cuando aplique.",
+    "detalle": "Archivos claros, legibles, en PDF y máximo 350 KB; la foto debe ser JPG de 200 a 400 KB."
+  },
+  {
+    "id": "NIV-003",
+    "tipo": "nivelacion",
+    "titulo": "Aprobación de nivelación",
+    "descripcion": "Se requiere mínimo 70% de asistencia, promedio mínimo de 7/10 en cada asignatura y cursar todas las asignaturas.",
+    "detalle": "La evaluación considera 60% gestión formativa, práctica y autónoma y 40% acreditación de aprendizajes."
+  },
+  {
+    "id": "NIV-004",
+    "tipo": "nivelacion",
+    "titulo": "Campus virtual Moodle",
+    "descripcion": "Moodle permite acceder a materiales y actividades. En el primer ingreso se usa el número de cédula como usuario y contraseña.",
+    "detalle": ""
+  },
+  {
+    "id": "NIV-005",
+    "tipo": "nivelacion",
+    "titulo": "Clases por Zoom",
+    "descripcion": "Las clases sincrónicas se desarrollan por Zoom y se accede desde SIUG: Académico, Estudiante, Horarios, Clases Virtuales.",
+    "detalle": "Las sesiones quedan disponibles en Moodle."
+  },
+  {
+    "id": "CRO-001",
+    "tipo": "cronograma",
+    "titulo": "Postulación para documento terminado en 1 o 2",
+    "descripcion": "El ingreso se habilita desde las 09:00 am el Lunes 13-jul-26.",
+    "detalle": "Para todos: del sábado 18-jul-26 al lunes 20-jul-26."
+  },
+  {
+    "id": "CRO-002",
+    "tipo": "cronograma",
+    "titulo": "Postulación para documento terminado en 3 o 4",
+    "descripcion": "El ingreso se habilita desde las 09:00 am el Martes 14-jul-26.",
+    "detalle": "Para todos: del sábado 18-jul-26 al lunes 20-jul-26."
+  },
+  {
+    "id": "CRO-003",
+    "tipo": "cronograma",
+    "titulo": "Postulación para documento terminado en 5 o 6",
+    "descripcion": "El ingreso se habilita desde las 09:00 am el Miércoles 15-jul-26.",
+    "detalle": "Para todos: del sábado 18-jul-26 al lunes 20-jul-26."
+  },
+  {
+    "id": "CRO-004",
+    "tipo": "cronograma",
+    "titulo": "Postulación para documento terminado en 7 u 8",
+    "descripcion": "El ingreso se habilita desde las 09:00 am el Jueves 16-jul-26.",
+    "detalle": "Para todos: del sábado 18-jul-26 al lunes 20-jul-26."
+  },
+  {
+    "id": "CRO-005",
+    "tipo": "cronograma",
+    "titulo": "Postulación para documento terminado en 9 o 0",
+    "descripcion": "El ingreso se habilita desde las 09:00 am el Viernes 17-jul-26.",
+    "detalle": "Para todos: del sábado 18-jul-26 al lunes 20-jul-26."
+  },
+  {
+    "id": "MAT-001",
+    "tipo": "matricula_ordinaria",
+    "titulo": "Matrícula ordinaria (estudiantes regulares)",
+    "descripcion": "La matrícula ordinaria es el proceso mediante el cual los estudiantes que ya forman parte de una carrera (por ejemplo, quienes cursan cuarto semestre u otro semestre regular) se inscriben en las asignaturas del siguiente período académico a través del SIUG.",
+    "detalle": "Se diferencia de la matrícula de nivelación porque no es para aspirantes nuevos: aplica a quienes ya aprobaron nivelación u homologación y continúan su malla curricular. Debes verificar tus prerrequisitos y seleccionar el horario antes de generar la matrícula."
+  },
+  {
+    "id": "MAT-002",
+    "tipo": "matricula_ordinaria",
+    "titulo": "Pasos para matricularte en semestre regular",
+    "descripcion": "Ingresa al SIUG con tu usuario y contraseña, ve a Académico - Estudiante - Matriculación - Periodo Ordinario, selecciona tu carrera y verifica que cumples los prerrequisitos de cada materia.",
+    "detalle": "Luego elige el horario disponible para cada asignatura, genera la matrícula, acepta el Acuerdo de Responsabilidad y descarga tu comprobante. Ejemplo aplicable a un estudiante de cuarto semestre: debe confirmar que aprobó las materias de tercer semestre que son prerrequisito antes de inscribirse."
+  },
+  {
+    "id": "MAT-003",
+    "tipo": "tercera_matricula",
+    "titulo": "Tercera matrícula",
+    "descripcion": "Si repruebas una misma asignatura en dos ocasiones, necesitas una autorización de tercera matrícula para poder volver a cursarla.",
+    "detalle": "Este trámite se gestiona a través del SIUG y de la secretaría de la unidad académica correspondiente antes del período de matriculación ordinaria."
+  },
+  {
+    "id": "MAT-004",
+    "tipo": "retiro_asignaturas",
+    "titulo": "Retiro o eliminación de asignaturas",
+    "descripcion": "Los estudiantes pueden retirar o cancelar voluntariamente una o varias asignaturas dentro de los primeros días del período académico ordinario.",
+    "detalle": "Esta gestión se realiza a través del SIUG, en la opción de Matriculación. Es importante revisar el plazo vigente antes de solicitarlo, ya que después de esa fecha no se garantiza el retiro."
+  },
+  {
+    "id": "HOM-001",
+    "tipo": "homologacion",
+    "titulo": "Homologación de materias",
+    "descripcion": "La homologación permite reconocer asignaturas ya aprobadas en otra carrera, universidad o proceso previo, para no tener que volver a cursarlas.",
+    "detalle": "Requiere presentar la malla académica certificada, el registro de título (si aplica) y cumplir con el proceso definido por la unidad académica antes del período de matrícula ordinaria."
+  },
+  {
+    "id": "BEC-001",
+    "tipo": "becas_ayudas",
+    "titulo": "Becas y ayudas económicas",
+    "descripcion": "La Universidad de Guayaquil ofrece becas y ayudas económicas para estudiantes que cumplen ciertos criterios socioeconómicos o de rendimiento académico.",
+    "detalle": "El proceso de postulación y los requisitos se gestionan a través del área de Bienestar Estudiantil. Se recomienda revisar las convocatorias oficiales publicadas en el sitio web institucional."
+  },
+  {
+    "id": "CAR-N-001",
+    "tipo": "carnet_estudiantil",
+    "titulo": "Carné estudiantil",
+    "descripcion": "El carné estudiantil identifica a los alumnos regulares de la universidad y suele solicitarse para trámites académicos, uso de biblioteca y descuentos.",
+    "detalle": "Se tramita generalmente a través del SIUG o de la unidad académica, presentando la fotografía y datos personales actualizados."
+  },
+  {
+    "id": "BIB-001",
+    "tipo": "biblioteca",
+    "titulo": "Servicios de biblioteca",
+    "descripcion": "La biblioteca de la Universidad de Guayaquil ofrece préstamo de libros, salas de estudio y acceso a bases de datos académicas para estudiantes regulares.",
+    "detalle": "El acceso a los servicios digitales normalmente requiere el usuario institucional o el carné estudiantil vigente."
+  },
+  {
+    "id": "CON-001",
+    "tipo": "contacto_soporte",
+    "titulo": "Soporte y contacto",
+    "descripcion": "Para dudas específicas sobre tu situación académica (matrícula, nivelación, homologación) puedes contactar a la secretaría de tu unidad académica o a los canales oficiales de la UG.",
+    "detalle": "Este asistente ofrece información general y orientativa; para casos particulares siempre confirma con la fuente oficial."
+  },
+  {
+    "id": "NIV-006",
+    "tipo": "nivelacion",
+    "titulo": "Subida de documentos para nivelación",
+    "descripcion": "Antes de completar la matrícula de nivelación debes subir tus documentos al SIUG: foto carné, cédula o pasaporte, certificado de votación y título de bachiller.",
+    "detalle": "Todos los archivos deben estar en PDF, ser claros y legibles, y no superar el peso máximo indicado por el sistema."
+  },
+  {
+    "id": "HOM-002",
+    "tipo": "homologacion",
+    "titulo": "Cómo homologar materias en la UG",
+    "descripcion": "Para homologar o convalidar materias cursadas en otra universidad o carrera, el estudiante debe presentar su malla académica y solicitar el proceso ante la unidad académica correspondiente.",
+    "detalle": "El trámite de homologación de asignaturas se realiza antes del período de matrícula ordinaria y puede reducir el número de materias que debes cursar nuevamente."
+  },
+  {
+    "id": "BEC-002",
+    "tipo": "becas_ayudas",
+    "titulo": "Requisitos para acceder a una beca",
+    "descripcion": "Para postular a una beca o ayuda económica en la Universidad de Guayaquil, el estudiante generalmente debe demostrar buen rendimiento académico o una condición socioeconómica vulnerable.",
+    "detalle": "Las convocatorias de becas se publican de forma periódica a través de Bienestar Estudiantil y el sitio web institucional."
+  },
+  {
+    "id": "BIB-002",
+    "tipo": "biblioteca",
+    "titulo": "Préstamo de libros y salas de estudio",
+    "descripcion": "Los estudiantes regulares pueden solicitar el préstamo de libros físicos y reservar salas de estudio en la biblioteca de su facultad.",
+    "detalle": "También existe acceso a bases de datos académicas digitales mediante el usuario institucional."
+  },
+  {
+    "id": "CON-002",
+    "tipo": "contacto_soporte",
+    "titulo": "Canales oficiales de atención",
+    "descripcion": "Si tienes un problema con tu matrícula, tu cupo o cualquier trámite, puedes contactar a la secretaría de tu facultad o escribir a los canales oficiales de atención de la Universidad de Guayaquil.",
+    "detalle": "Evita compartir tu contraseña del SIUG con terceros, incluso si te ofrecen ayuda para resolver tu problema."
+  },
+  {
+    "id": "MAT-005",
+    "tipo": "tercera_matricula",
+    "titulo": "Perder o reprobar una materia dos veces",
+    "descripcion": "Si un estudiante pierde o reprueba la misma asignatura en dos ocasiones, no puede matricularse en ella una tercera vez sin una autorización especial.",
+    "detalle": "Esta autorización de tercera matrícula debe solicitarse en la secretaría de la unidad académica antes del período de matriculación ordinaria."
+  }
+]

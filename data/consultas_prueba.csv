@@ -1,0 +1,26 @@
+consulta,categoria_esperada
+Hola,saludo
+Buenas tardes,saludo
+Hola buen dia,saludo
+¿Qué modalidad tiene Medicina?,carrera
+¿Qué carreras hay en línea?,carrera
+¿Cómo apruebo la nivelación?,nivelacion
+¿Qué documentos debo subir?,nivelacion
+¿Cómo ingreso a Moodle?,nivelacion
+¿Qué es la aceptación de cupo?,admision
+¿Cuál es el puntaje de postulación?,admision
+"Mi cédula termina en 4, ¿cuándo postulo?",cronograma_cedula
+"Mi pasaporte termina en 7, ¿qué día ingreso?",cronograma_cedula
+¿Cómo es la matrícula ordinaria?,matricula_ordinaria
+¿Qué pasa si pierdo una materia dos veces?,tercera_matricula
+¿Cómo retiro una materia?,retiro_asignaturas
+¿Cómo homologar materias de otra universidad?,homologacion
+¿Hay becas para estudiantes?,becas_ayudas
+¿Cómo saco mi carné estudiantil?,carnet_estudiantil
+¿Qué servicios tiene la biblioteca?,biblioteca
+¿A quién contacto si tengo un problema con mi matrícula?,contacto_soporte
+Gracias por la ayuda,despedida
+Muchas gracias eso era todo,despedida
+komo aprwebo nivelasion,nivelacion
+kiero saber sobre medicna,carrera
+asdlkjqwe,fallback
