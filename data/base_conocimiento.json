@@ -666,8 +666,7 @@
     "titulo": "Perder o reprobar una materia dos veces",
     "descripcion": "Si un estudiante pierde o reprueba la misma asignatura en dos ocasiones, no puede matricularse en ella una tercera vez sin una autorización especial.",
     "detalle": "Esta autorización de tercera matrícula debe solicitarse en la secretaría de la unidad académica antes del período de matriculación ordinaria."
-  }
-],
+  },
 {
   "id": "ADM-FAC-001",
   "tipo": "admision",
@@ -694,3 +693,4 @@
   "detalle": "Para conocer las carreras de una facultad específica, escribe por ejemplo: ¿Qué carreras tiene Ciencias Administrativas? o ¿Cuántas carreras tiene Ciencias Médicas?",
   "fuente": "Oferta Académica - Admisión Universidad de Guayaquil"
 },
+]
