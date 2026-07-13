@@ -8,7 +8,7 @@ from .entities import extraer_ultimo_digito, es_saludo, es_despedida
 
 # Respuesta fija para saludos (regla, no pasa por TF-IDF/similitud coseno).
 SALUDO_RESPUESTA = (
-    "¡Hola! Soy el asistente virtual de Admisión y Nivelación de la UG. 🎓\n"
+    "¡Hola! Soy el asistente virtual de Admisión y Nivelación de la UG. \n"
     "Puedo ayudarte con temas como: carreras y modalidades, requisitos de "
     "admisión, cronograma según tu cédula, matrícula (nivelación y ordinaria), "
     "homologación, becas y trámites en el SIUG.\n"
@@ -18,13 +18,13 @@ SALUDO_RESPUESTA = (
 # Respuesta fija para despedidas/agradecimientos.
 DESPEDIDA_RESPUESTA = (
     "¡Con gusto! Si tienes otra consulta sobre admisión, nivelación o vida "
-    "universitaria, aquí estaré. ¡Éxitos! 👋"
+    "universitaria, aquí estaré. ¡Éxitos! "
 )
 
 # Mensaje de fallback: se muestra siempre que la similitud no supere el umbral,
 # para que el usuario sepa exactamente qué puede reformular.
 FALLBACK_RESPUESTA = (
-    "⚠️ No encontré una respuesta suficientemente clara para tu consulta.\n"
+    "No encontré una respuesta suficientemente clara para tu consulta.\n"
     "Intenta reformularla mencionando, por ejemplo: una carrera, 'requisitos "
     "de admisión', 'cronograma', 'nivelación', 'matrícula ordinaria', "
     "'homologación' o 'becas'."
@@ -84,7 +84,7 @@ class ChatbotUG:
             if score < self.umbral:
                 return (FALLBACK_RESPUESTA, "fallback", score) if debug else FALLBACK_RESPUESTA
         except Exception as e:
-            msg = f"⚠️ Ocurrió un problema al procesar tu consulta ({e}). Intenta reformularla."
+            msg = f"Ocurrió un problema al procesar tu consulta ({e}). Intenta reformularla."
             return (msg, "error", 0.0) if debug else msg
         r = self.registros[idx]
         partes = []
