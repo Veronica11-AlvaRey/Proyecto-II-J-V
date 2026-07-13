@@ -1,4 +1,0 @@
-pandas>=2.0
-scikit-learn>=1.4
-gradio>=5.0
-nltk>=3.8
