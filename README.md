@@ -53,6 +53,6 @@ python evaluar.py   # evaluación con accuracy y F1-macro
 - `docs/`: informe.
 - `app_consola.py`: prueba local.
 
-## Nota
+## video exposición
 https://drive.google.com/file/d/1pKwewEon22gsCI8mHofu9s7u8dRee3aU/view?usp=sharing
 El prototipo utiliza respuestas recuperadas, no generación https://drive.google.com/file/d/1pKwewEon22gsCI8mHofu9s7u8dRee3aU/view?usp=sharingabierta. Las fechas deben validarse contra la fuente oficial antes de uso real.
